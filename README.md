@@ -30,7 +30,3 @@ This repository was created as part of the IBM Developing Front-End Apps with Re
 
 Credential:
 https://www.coursera.org/account/accomplishments/certificate/D58P4FW2JMTR
-
-## Portfolio context
-
-This is a learning/supporting repository. The main portfolio should prioritize the larger production-oriented applications and AI/data projects.
